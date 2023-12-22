@@ -10,12 +10,12 @@ function CartItems() {
     <div className='cartItems'>
 
         <div className='cartitems-format-main'>
-            <p>Products</p>
-            <p>Title</p>
-            <p>Price</p>
-            <p>Quantity</p>
-            <p>Total</p>
-            <p>Remove</p>
+            <p>Products </p>
+            <p>Title </p>
+            <p>Price </p>
+            <p>Quantity </p>
+            <p>Total </p>
+            <p>Remove </p>
 
         </div>
         <hr/>
